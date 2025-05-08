@@ -1,0 +1,12 @@
+
+
+
+Namespace(aggregator_class='mean', arch_cly='', arch_disc='512-64-16', batch_size=64, cdan_param=1.0, cluster_temperature=0.1, device=0, dgi_param=0.1, epochs=50, epochs1=50, instance_temperature=0.1, is_blog=True, is_social_net=False, k=9, lr_cly=0.01, n_samples='10,10,10', n_samples1='10,10,10', output_dims='512,128', seed=123, source_dataset='dblpv7', target_dataset='dblpv7', temperature=1.0, weight_decay=5e-05)
+
+
+
+Namespace(aggregator_class='mean', arch_cly='', arch_disc='512-64-16', batch_size=64, cdan_param=1.0, cluster_temperature=0.1, device=0, dgi_param=0.1, epochs=50, epochs1=50, instance_temperature=0.1, is_blog=True, is_social_net=False, k=9, lr_cly=0.01, n_samples='10,10,10', n_samples1='10,10,10', output_dims='512,128', seed=123, source_dataset='dblpv7', target_dataset='dblpv7', temperature=1.0, weight_decay=5e-05)
+
+
+
+Namespace(aggregator_class='mean', arch_cly='', arch_disc='512-64-16', batch_size=64, cdan_param=1.0, cluster_temperature=0.1, device=0, dgi_param=0.1, epochs=50, epochs1=50, instance_temperature=0.1, is_blog=True, is_social_net=False, k=9, lr_cly=0.01, n_samples='10,10,10', n_samples1='10,10,10', output_dims='512,128', seed=123, source_dataset='dblpv7', target_dataset='dblpv7', temperature=1.0, weight_decay=5e-05)

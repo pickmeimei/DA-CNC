@@ -1,0 +1,116 @@
+
+
+
+Namespace(aggregator_class='mean', arch_cly='', arch_disc='32-16', batch_size=64, cdan_param=1.0, device=0, dgi_param=1.0, epochs=50, is_blog=False, is_social_net=False, lr_cly=0.01, n_samples='10,10', output_dims='256,64', seed=123, source_dataset='dblpv7', target_dataset='citationv1', weight_decay=5e-05)
+best epoch: 30 	 best micro_f1: 0.761565 	 best macro_f1: 0.756803 
+
+
+
+Namespace(aggregator_class='mean', arch_cly='', arch_disc='512-64-16', batch_size=64, cdan_param=1.0, cluster_temperature=0.1, device=0, dgi_param=0.1, epochs=50, epochs1=50, instance_temperature=0.1, is_blog=True, is_social_net=False, k=9, lr_cly=0.01, n_samples='10,10,10', n_samples1='10,10,10', output_dims='512,128', seed=123, source_dataset='dblpv7', target_dataset='citationv1', temperature=1.0, weight_decay=5e-05)
+
+
+
+Namespace(aggregator_class='mean', arch_cly='', arch_disc='512-64-16', batch_size=64, cdan_param=1.0, cluster_temperature=0.1, device=0, dgi_param=0.1, epochs=50, epochs1=50, instance_temperature=0.1, is_blog=True, is_social_net=False, k=9, lr_cly=0.01, n_samples='10,10,10', n_samples1='10,10,10', output_dims='512,128', seed=123, source_dataset='dblpv7', target_dataset='citationv1', temperature=1.0, weight_decay=5e-05)
+
+
+
+Namespace(aggregator_class='mean', arch_cly='', arch_disc='512-64-16', batch_size=64, cdan_param=1.0, cluster_temperature=0.1, device=0, dgi_param=0.1, epochs=50, epochs1=50, instance_temperature=0.1, is_blog=True, is_social_net=False, k=9, lr_cly=0.005, n_samples='10,10,10', n_samples1='10,10,10', output_dims='1024,512,128', seed=123, source_dataset='dblpv7', target_dataset='citationv1', temperature=1.0, weight_decay=5e-05)
+best epoch: 40 	 best micro_f1: 0.825953 	 best macro_f1: 0.814979 
+
+
+
+Namespace(aggregator_class='mean', arch_cly='', arch_disc='512-64-16', batch_size=64, cdan_param=1.0, cluster_temperature=0.1, device=0, dgi_param=0.1, epochs=50, epochs1=50, instance_temperature=0.1, is_blog=True, is_social_net=False, k=9, lr_cly=0.005, n_samples='10,10,10', n_samples1='10,10,10', output_dims='1024,512,128', seed=123, source_dataset='dblpv7', target_dataset='citationv1', temperature=1.0, weight_decay=5e-05)
+best epoch: 32 	 best micro_f1: 0.833315 	 best macro_f1: 0.817278 
+
+
+
+Namespace(aggregator_class='mean', arch_cly='', arch_disc='512-64-16', batch_size=64, cdan_param=1.0, cluster_temperature=0.1, device=0, dgi_param=0.1, epochs=50, epochs1=50, instance_temperature=0.1, is_blog=True, is_social_net=False, k=9, lr_cly=0.01, n_samples='10,10,10', n_samples1='10,10,10', output_dims='2048,128', seed=123, source_dataset='dblpv7', target_dataset='citationv1', temperature=1.0, weight_decay=5e-05)
+best epoch: 25 	 best micro_f1: 0.834304 	 best macro_f1: 0.817497 
+
+
+
+Namespace(aggregator_class='mean', arch_cly='', arch_disc='512-64-16', batch_size=64, cdan_param=1.0, cluster_temperature=0.1, device=0, dgi_param=0.1, epochs=50, epochs1=50, instance_temperature=0.1, is_blog=True, is_social_net=False, k=9, lr_cly=0.005, n_samples='10,10,10', n_samples1='10,10,10', output_dims='1024,512,128', seed=123, source_dataset='dblpv7', target_dataset='citationv1', temperature=1.0, weight_decay=5e-05)
+best epoch: 35 	 best micro_f1: 0.838809 	 best macro_f1: 0.824076 
+
+
+
+Namespace(aggregator_class='mean', arch_cly='', arch_disc='512-64-16', batch_size=64, cdan_param=1.0, cluster_temperature=0.1, device=0, dgi_param=0.1, epochs=50, epochs1=50, instance_temperature=0.1, is_blog=True, is_social_net=False, k=9, lr_cly=0.005, n_samples='10,10,10', n_samples1='10,10,10', output_dims='1024,512,128', seed=123, source_dataset='dblpv7', target_dataset='citationv1', temperature=1.0, weight_decay=5e-05)
+best epoch: 40 	 best micro_f1: 0.834524 	 best macro_f1: 0.820666 
+
+
+
+Namespace(aggregator_class='mean', arch_cly='', arch_disc='512-64-16', batch_size=64, cdan_param=1.0, cluster_temperature=0.1, device=0, dgi_param=0.1, epochs=50, epochs1=50, instance_temperature=0.1, is_blog=True, is_social_net=False, k=9, lr_cly=0.005, mi_param=0.01, n_samples='10,10,10', output_dims='1024,512,128', seed=123, source_dataset='dblpv7', target_dataset='citationv1', weight_decay=5e-05)
+best epoch: 1 	 best micro_f1: 0.797495 	 best macro_f1: 0.746261 
+
+
+
+Namespace(aggregator_class='mean', arch_cly='', arch_disc='512-64-16', batch_size=64, cdan_param=1.0, cluster_temperature=0.1, device=0, dgi_param=0.1, epochs=50, epochs1=50, instance_temperature=0.1, is_blog=True, is_social_net=False, k=9, lr_cly=0.005, mi_param=0.001, n_samples='10,10,10', output_dims='1024,512,128', seed=123, source_dataset='dblpv7', target_dataset='citationv1', weight_decay=5e-05)
+best epoch: 23 	 best micro_f1: 0.833535 	 best macro_f1: 0.818028 
+
+
+
+Namespace(aggregator_class='mean', arch_cly='', arch_disc='512-64-16', batch_size=64, cdan_param=1.0, cluster_temperature=0.1, device=0, dgi_param=0.1, epochs=50, epochs1=50, instance_temperature=0.1, is_blog=True, is_social_net=False, k=9, lr_cly=0.005, mi_param=0.002, n_samples='10,10,10', output_dims='1024,512,128', seed=123, source_dataset='dblpv7', target_dataset='citationv1', weight_decay=5e-05)
+best epoch: 30 	 best micro_f1: 0.828371 	 best macro_f1: 0.813447 
+
+
+
+Namespace(aggregator_class='mean', arch_cly='', arch_disc='512-64-16', batch_size=64, cdan_param=1.0, cluster_temperature=0.1, device=0, dgi_param=0.1, epochs=50, instance_temperature=0.1, is_blog=True, is_social_net=False, k=9, lr_cly=0.005, mi_param=0.001, n_samples='10,10,10', output_dims='1024,512,128', seed=123, source_dataset='dblpv7', target_dataset='citationv1', weight_decay=5e-05)
+best epoch: 30 	 best micro_f1: 0.833755 	 best macro_f1: 0.818782 
+
+
+
+Namespace(aggregator_class='mean', arch_cly='', arch_disc='512-64-16', batch_size=64, cdan_param=1.0, cluster_temperature=0.1, device=0, dgi_param=0.1, epochs=50, instance_temperature=0.1, is_blog=True, is_social_net=False, k=9, lr_cly=0.005, mi_param=0.001, n_samples='10,10,10', output_dims='1024,512,128', seed=123, source_dataset='dblpv7', target_dataset='citationv1', weight_decay=5e-05)
+best epoch: 14 	 best micro_f1: 0.788705 	 best macro_f1: 0.765053 
+
+
+
+Namespace(aggregator_class='mean', arch_cly='', arch_disc='512-64-16', batch_size=64, cdan_param=1.0, cluster_temperature=0.1, device=0, dgi_param=0.1, epochs=50, instance_temperature=0.1, is_blog=True, is_social_net=False, k=9, lr_cly=0.005, mi_param=0.001, n_samples='10,10', output_dims='1024,512,128', seed=123, source_dataset='dblpv7', source_dataset_del='dblpv7_0.2', target_dataset='citationv1', target_dataset_del='acmv9_0.2', weight_decay=5e-05)
+
+
+
+Namespace(aggregator_class='mean', arch_cly='', arch_disc='512-64-16', batch_size=64, cdan_param=1.0, cluster_temperature=0.1, device=0, dgi_param=0.1, epochs=50, instance_temperature=0.1, is_blog=True, is_social_net=False, k=9, lr_cly=0.005, mi_param=0.001, n_samples='10,10', output_dims='1024,512,128', seed=123, source_dataset='dblpv7', source_dataset_del='dblpv7_0.2', target_dataset='citationv1', target_dataset_del='acmv9_0.2', weight_decay=5e-05)
+best epoch: 33 	 best micro_f1: 0.797055 	 best macro_f1: 0.774771 
+
+
+
+Namespace(aggregator_class='mean', arch_cly='', arch_disc='512-64-16', batch_size=64, cdan_param=1.0, cluster_temperature=0.1, device=0, dgi_param=0.1, epochs=50, instance_temperature=0.1, is_blog=True, is_social_net=False, k=9, lr_cly=0.005, mi_param=0.001, n_samples='10,10', output_dims='1024,512,128', seed=123, source_dataset='dblpv7', source_dataset_del='dblpv7_0.2', target_dataset='citationv1', target_dataset_del='acmv9_0.2', weight_decay=5e-05)
+best epoch: 17 	 best micro_f1: 0.803758 	 best macro_f1: 0.785860 
+
+
+
+Namespace(aggregator_class='mean', arch_cly='', arch_disc='512-64-16', batch_size=64, cdan_param=1.0, cluster_temperature=0.1, device=0, dgi_param=0.1, epochs=50, instance_temperature=0.1, is_blog=True, is_social_net=False, k=9, lr_cly=0.005, mi_param=0.005, n_samples='10,10', output_dims='1024,512,128', seed=123, source_dataset='dblpv7', source_dataset_del='dblpv7_0.2', target_dataset='citationv1', target_dataset_del='acmv9_0.2', weight_decay=5e-05)
+best epoch: 46 	 best micro_f1: 0.830458 	 best macro_f1: 0.816419 
+
+
+
+Namespace(aggregator_class='mean', arch_cly='', arch_disc='512-64-16', batch_size=64, cdan_param=1.0, cluster_temperature=0.1, device=0, dgi_param=0.1, epochs=50, instance_temperature=0.1, is_blog=True, is_social_net=False, k=9, lr_cly=0.005, mi_param=0.01, n_samples='10,10', output_dims='1024,512,128', seed=123, source_dataset='dblpv7', source_dataset_del='dblpv7_0.2', target_dataset='citationv1', target_dataset_del='acmv9_0.2', weight_decay=5e-05)
+
+
+
+Namespace(aggregator_class='mean', arch_cly='', arch_disc='512-64-16', batch_size=64, cdan_param=1.0, cluster_temperature=0.1, device=0, dgi_param=0.1, epochs=50, instance_temperature=0.1, is_blog=True, is_social_net=False, k=9, lr_cly=0.005, mi_param=0.05, n_samples='10,10', output_dims='1024,512,128', seed=123, source_dataset='dblpv7', source_dataset_del='dblpv7_0.2', target_dataset='citationv1', target_dataset_del='acmv9_0.2', weight_decay=5e-05)
+best epoch: 42 	 best micro_f1: 0.831996 	 best macro_f1: 0.817585 
+
+
+
+Namespace(aggregator_class='mean', arch_cly='', arch_disc='512-64-16', batch_size=64, cdan_param=1.0, cluster_temperature=0.1, device=0, dgi_param=0.1, epochs=50, instance_temperature=0.1, is_blog=True, is_social_net=False, k=9, lr_cly=0.005, mi_param=0.1, n_samples='10,10', output_dims='1024,512,128', seed=123, source_dataset='dblpv7', source_dataset_del='dblpv7_0.2', target_dataset='citationv1', target_dataset_del='acmv9_0.2', weight_decay=5e-05)
+best epoch: 37 	 best micro_f1: 0.827491 	 best macro_f1: 0.810290 
+
+
+
+Namespace(aggregator_class='mean', arch_cly='', arch_disc='512-64-16', batch_size=64, cdan_param=1.0, cluster_temperature=0.1, device=0, dgi_param=0.5, epochs=50, instance_temperature=0.1, is_blog=True, is_social_net=False, k=9, lr_cly=0.005, mi_param=0.001, n_samples='10,10', output_dims='1024,512,128', seed=123, source_dataset='dblpv7', source_dataset_del='dblpv7_0.2', target_dataset='citationv1', target_dataset_del='acmv9_0.2', weight_decay=5e-05)
+best epoch: 37 	 best micro_f1: 0.829030 	 best macro_f1: 0.814725 
+
+
+
+Namespace(aggregator_class='mean', arch_cly='', arch_disc='512-64-16', batch_size=64, cdan_param=1.0, cluster_temperature=0.1, device=0, dgi_param=0.01, epochs=50, instance_temperature=0.1, is_blog=True, is_social_net=False, k=9, lr_cly=0.005, mi_param=0.001, n_samples='10,10', output_dims='1024,512,128', seed=123, source_dataset='dblpv7', source_dataset_del='dblpv7_0.2', target_dataset='citationv1', target_dataset_del='acmv9_0.2', weight_decay=5e-05)
+best epoch: 46 	 best micro_f1: 0.810900 	 best macro_f1: 0.797895 
+
+
+
+Namespace(aggregator_class='mean', arch_cly='', arch_disc='512-64-16', batch_size=64, cdan_param=1.0, cluster_temperature=0.1, device=0, dgi_param=0.001, epochs=50, instance_temperature=0.1, is_blog=True, is_social_net=False, k=9, lr_cly=0.005, mi_param=0.001, n_samples='10,10', output_dims='1024,512,128', seed=123, source_dataset='dblpv7', source_dataset_del='dblpv7_0.2', target_dataset='citationv1', target_dataset_del='acmv9_0.2', weight_decay=5e-05)
+best epoch: 28 	 best micro_f1: 0.794418 	 best macro_f1: 0.774098 
+
+
+
+Namespace(aggregator_class='mean', arch_cly='', arch_disc='512-64-16', batch_size=64, cdan_param=1.0, cluster_temperature=0.1, device=0, dgi_param=1, epochs=50, instance_temperature=0.1, is_blog=True, is_social_net=False, k=9, lr_cly=0.005, mi_param=0.001, n_samples='10,10', output_dims='1024,512,128', seed=123, source_dataset='dblpv7', source_dataset_del='dblpv7_0.2', target_dataset='citationv1', target_dataset_del='acmv9_0.2', weight_decay=5e-05)
+best epoch: 37 	 best micro_f1: 0.814965 	 best macro_f1: 0.799685 
